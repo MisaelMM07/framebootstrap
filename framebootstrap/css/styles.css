@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(191, 187, 247);
+}
+.navbar-custom-color{
+    background-color: rgba(171, 209, 240, 0.867);
+    color: white;
+}
+.icon-custom{
+    color: rgb(235, 137, 156);
+    font-size: 1em;
+}
+footer{
+    background-color: black;
+}
